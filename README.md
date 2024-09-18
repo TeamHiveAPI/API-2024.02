@@ -1,4 +1,4 @@
-<img src="">
+<img src="/img/capa_readme.png">
 
 <br>
 
@@ -24,44 +24,46 @@ O nosso sistema é uma aplicação web desenvolvida para aprimorar a transparên
 
 ## ⚙️ Funcionalidades Principais
 
+<img src="/img/card_funcionalidades.png">
+
 
 <br>
 
 ## 💻 Tecnologias Utilizadas
 
+<img src="/img/card_tecnologias.png">
 
 <br>
 
 ## 🏆 MVPs
 
 <strong>Sprint 1:</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
-<p> Em andamento! </p>
+
+<strong>Sprint 2:</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
-<strong>Sprint 2</strong> <br>
-<br>
-<p> Em andamento! </p>
-<br>
+
 <strong>Sprint 3</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
-<p> Em andamento! </p>
-<br>
+
 <strong>Sprint 4</strong> <br>
-<br>
-<p> Em andamento! </p>
+<pre><code>Em andamento!</code></pre>
 <br>
 
 <br>
 
 ## 🖱️ Manual do Usuário
-Em andamento!
+<pre><code>Manual em breve!</code></pre>
 <br>
 
 <br>
 
 ## ▶️ Executando a Aplicação
 
-<p> Em breve! </p>
+<pre><code>Tutorial em breve!</code></pre>
 
 <br>
 
@@ -97,20 +99,22 @@ Em andamento!
 <br>
 
 ## 📖 Relatórios Sprints
-<strong>Sprint 1:</strong>
-<p> Em breve! </p>
+
+<strong>Sprint 1:</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
+
+<strong>Sprint 2:</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
-<strong>Sprint 2:</strong>
-<p> Em breve! </p>
+
+<strong>Sprint 3</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
+
+<strong>Sprint 4</strong> <br>
+<pre><code>Em andamento!</code></pre>
 <br>
-<strong>Sprint 3:</strong>
-<p> Em breve! </p>
-<br>
-<br>
-<strong>Sprint 4:</strong>
-<p> Em breve! </p>
 
 <br>
 
