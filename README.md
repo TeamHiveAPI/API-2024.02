@@ -69,15 +69,12 @@ Em andamento!
 
 | Número | Requisito                                           |
 |--------|-----------------------------------------------------|
-| 1      | Ferramenta  de  importação  de  dados  da  aplicação  legada  no  novo  banco  de  dados projetado; |
-| 2      | Interface para cadastro de novos projetos; |
-| 3      | Interface de pesquisa de projetos. |
-| 4      | Interface de cadastro de usuários; |
-| 5      | Relatórios/dashboards de projetos desenvolvidos, com diferentes tipos de filtros; |
-| 6      | Manual do Usuário; |
-| 7      | Software Web e Multiusuário; |
-| 8      | Responsivo; |
-| 9      | Segurança da Informação |
+| 1      | Cadastro de projetos feitos por um perfil de usuário único, que nesse caso é o Administrador. |
+| 2      | Busca de projetos feita em uma barra de pesquisa única. |
+| 3      | Coleta dos projetos já existentes para a implementação no sistema a ser desenvolvido. |
+| 4      | Dashboards de projetos em desenvolvimento ou desenvolvidos, com filtros para facilitar a visualização. |
+| 5      | Responsividade |
+| 6      | Cadastro de Usuários. |
 
 <br>
 
