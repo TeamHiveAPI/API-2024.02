@@ -84,17 +84,17 @@ O nosso sistema é uma aplicação web desenvolvida para aprimorar a transparên
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito Parceiro |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Alta | Eu, como usuário, quero poder criar uma conta para conseguir consultar os projetos criados. | 8 | 1 | 3 |
-| 2 | Alta | Eu, como pesquisador, quero poder cadastrar um projeto novo e editar ou excluir um projeto ja existente de minha autoria. | 7 | 2 | 2 |
-| 3 | Alta | Eu, como pesquisador, quero poder fazer upload de arquivos relevantes quando estiver criando meu projeto. | 4 | 2 | 2 |
-| 4 | Alta | Eu, como administrador, quero poder cadastrar novos pesquisadores na página de cadastro de pesquisadores. | 5 | 3 | 4 |
-| 5 | Média | Eu, como usuário, quero poder consultar os projetos pesquisando por nome, coordenador, data de início ou término, classificação ou por sua situação atual. | 4 | 1 | 3 |
-| 6 | Média | Eu, como usuário, quero poder filtrar os tipos de projeto por nome, coordenador, data de início ou término, classificação ou por sua situação atual. | 4 | 3 | 5 |
-| 7 | Média | Eu, como usuário, quero poder fazer o download de arquivos relacionados aos projetos. | 5 | 2 | 1 |
-| 8 | Média | Eu, como usuário, quero poder visualizar o projeto de forma em que eu consiga ver todas as informações disponíveis. | 3 | 2 | 7 |
-| 9 | Média | Eu, como usuário, quero poder acessar ao site por computador, tablet e celular de forma em que seja intuitivo e funcional. | 4 | 3 | 8 |
-| 10 | Média | Eu, como administrador, quero poder criar, editar ou excluir projetos. | 2 | 3 | 2 |
-| 11 | Baixa | Eu, como administrador, quero poder desativar a conta de usuários, para manter o controle de quem pode acessar o sistema. | 3 | 4 | 9 |
+| 1 | Alta | Eu, como administrador, quero poder cadastrar um projeto novo. | 5 | 1 | 1 |
+| 2 | Alta | Eu, como usuário, quero poder consultar os projetos em uma barra de pesquisa com acesso a filtros. | 4 | 1 | 2 |
+| 3 | Alta | Eu, como usuário, quero poder fazer login no site. | 4 | 1 | 6 |
+| 4 | Alta | Eu, como administrador, quero poder editar projetos já existentes. | 4 | 2 | 1 |
+| 5 | Média | Eu, como administrador, quero poder excluir projetos. | 3 | 2 | 1 |
+| 6 | Média | Eu, como usuário, quero poder acessar a página de dashboard de projetos com a funcionalidade de filtros para a visualização de detalhes. | 8 | 3 | 4 |
+| 7 | Média | Eu, como administrador, quero poder fazer upload de arquivos enquanto estiver criando o projeto. | 4 | 3 | 1 |
+| 8 | Média | Eu, como usuário, quero poder fazer download de arquivos relacionados ao projeto específico. | 5 | 3 | 1 |
+| 9 | Média | Eu, como usuário, quero poder exportar os arquivos para PDF e excel. | 6 | 3 | 3 |
+| 10 | Baixa | Eu, como usuário, quero um site responsivo podendo acessá-lo por celular, tablet e computador. | 5 | 4 | 5 |
+
 
 <br>
 
