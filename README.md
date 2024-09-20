@@ -63,7 +63,34 @@ O nosso sistema é uma aplicação web desenvolvida para aprimorar a transparên
 
 ## ▶️ Executando a Aplicação
 
-<pre><code>Tutorial em breve!</code></pre>
+#### Clonar o repositório do backend
+<pre><code>git clone https://github.com/TeamHiveAPI/API-2024.02-BACK.git</code></pre>
+
+#### Entrar na pasta do backend
+<pre><code>cd API-2024.02-BACK</code></pre>
+
+- Configurar o arquivo application.properties
+- Altere o arquivo 'src/main/resources/application.properties' e insira sua senha do MySQL na propriedade:
+spring.datasource.password=sua_senha_aqui
+- Certifique-se de criar o banco de dados no MySQL com o nome 'api'.
+
+#### Compilar e rodar o backend
+<pre><code>mvn clean install</code></pre>
+<pre><code>mvn spring-boot:run </code></pre>
+
+#### Clonar o repositório do frontend em uma nova aba/terminal
+<pre><code>cd ..</code></pre>
+<pre><code>git clone https://github.com/TeamHiveAPI/API-2024.02-FRONT.git</code></pre>
+
+#### Entrar na pasta do frontend
+<pre><code>cd API-2024.02-FRONT</code></pre>
+
+#### Instalar dependências do frontend
+<pre><code>npm install</code></pre>
+
+#### Rodar o frontend
+<pre><code>npm start</code></pre>
+
 
 <br>
 
