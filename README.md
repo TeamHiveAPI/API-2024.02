@@ -113,7 +113,7 @@ spring.datasource.password=sua_senha_aqui
 | --- | --- | --- | --- | --- | --- |
 | 1 | Alta | Eu, como administrador, quero poder cadastrar um projeto novo. | 5 | 1 | 1 |
 | 2 | Alta | Eu, como usuário, quero poder consultar os projetos em uma barra de pesquisa com acesso a filtros. | 4 | 1 | 2 |
-| 3 | Alta | Eu, como usuário, quero poder fazer login no site. | 4 | 1 | 6 |
+| 3 | Alta | Eu, como usuário, quero poder fazer login no site. | 4 | 1 | 1 |
 | 4 | Alta | Eu, como administrador, quero poder editar projetos já existentes. | 4 | 2 | 1 |
 | 5 | Média | Eu, como administrador, quero poder excluir projetos. | 3 | 2 | 1 |
 | 6 | Média | Eu, como usuário, quero poder acessar a página de dashboard de projetos com a funcionalidade de filtros para a visualização de detalhes. | 8 | 3 | 4 |
