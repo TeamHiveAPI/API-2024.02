@@ -103,7 +103,7 @@ spring.datasource.password=sua_senha_aqui
 | 3      | Coleta dos projetos já existentes para a implementação no sistema a ser desenvolvido. |
 | 4      | Dashboards de projetos em desenvolvimento ou desenvolvidos, com filtros para facilitar a visualização. |
 | 5      | Responsividade |
-| 6      | Cadastro de Usuários. |
+
 
 <br>
 
