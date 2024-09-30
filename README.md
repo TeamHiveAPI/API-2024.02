@@ -38,7 +38,17 @@ O nosso sistema é uma aplicação web desenvolvida para aprimorar a transparên
 ## 🏆 MVPs
 
 <strong>Sprint 1:</strong> <br>
-<pre><code>Em andamento!</code></pre>
+
+<br>
+
+<video src="https://github.com/user-attachments/assets/d92b6e03-2594-40d7-b04a-3f24db56b3a3"></video>
+
+<br>
+
+💡 Funcionalidades Específicas: [Visualizar](documentos_internos/mvps/mvp_sprint1.md)
+
+<br>
+
 <br>
 
 <strong>Sprint 2:</strong> <br>
