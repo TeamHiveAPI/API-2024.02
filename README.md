@@ -123,14 +123,15 @@ spring.datasource.password=sua_senha_aqui
 | --- | --- | --- | --- | --- | --- |
 | 1 | Alta | Eu, como administrador, quero poder cadastrar um projeto novo. | 5 | 1 | 1 |
 | 2 | Alta | Eu, como usuário, quero poder consultar os projetos em uma barra de pesquisa com acesso a filtros. | 4 | 1 | 2 |
-| 3 | Alta | Eu, como usuário, quero poder fazer login no site. | 4 | 1 | 1 |
+| 3 | Alta | Eu, como administrador, quero poder fazer login no site. | 4 | 1 | 1 |
 | 4 | Alta | Eu, como administrador, quero poder editar projetos já existentes. | 4 | 2 | 1 |
 | 5 | Média | Eu, como administrador, quero poder excluir projetos. | 3 | 2 | 1 |
 | 6 | Média | Eu, como usuário, quero poder acessar a página de dashboard de projetos com a funcionalidade de filtros para a visualização de detalhes. | 8 | 3 | 4 |
 | 7 | Média | Eu, como administrador, quero poder fazer upload de arquivos enquanto estiver criando o projeto. | 4 | 3 | 1 |
 | 8 | Média | Eu, como usuário, quero poder fazer download de arquivos relacionados ao projeto específico. | 5 | 3 | 1 |
-| 9 | Média | Eu, como usuário, quero poder exportar os arquivos para PDF e excel. | 6 | 3 | 3 |
+| 9 | Média | Eu, como usuário, quero poder exportar os arquivos para PDF e Excel. | 6 | 3 | 3 |
 | 10 | Baixa | Eu, como usuário, quero um site responsivo podendo acessá-lo por celular, tablet e computador. | 5 | 4 | 5 |
+| 11 | Baixa | Eu, como usuário, quero poder ver todos os projetos do antigo portal neste novo portal (scraping dos projetos antigos). | 5 | 4 | 3 |
 
 
 <br>
