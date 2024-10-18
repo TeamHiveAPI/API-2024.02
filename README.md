@@ -119,19 +119,19 @@ spring.datasource.password=sua_senha_aqui
 
 ## 🌱 Product Backlog
 
-| Rank | Prioridade | User Story | Estimativa | Sprint | Requisito Parceiro |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Alta | Eu, como administrador, quero poder cadastrar um projeto novo. | 5 | 1 | 1 |
-| 2 | Alta | Eu, como administrador, quero poder fazer login no site. | 4 | 1 | 1 |
-| 3 | Alta | Eu, como administrador, quero poder editar projetos já existentes. | 4 | 2 | 1 |
-| 4 | Média | Eu, como administrador, quero poder excluir projetos. | 3 | 2 | 1 |
-| 5 | Média | Eu, como usuário do sistema, quero uma funcionalidade de pesquisa com filtros para encontrar rapidamente projetos específicos com base em critérios como referência, título do projeto, contratante, datas de início e término, coordenador e valor. | 4 | 1 | 2 |
-| 6 | Média | Eu, como usuário, quero poder acessar a página de dashboard de projetos com a funcionalidade de filtros para a visualização de detalhes. | 8 | 3 | 4 |
-| 7 | Média | Eu, como administrador, quero poder fazer upload de arquivos enquanto estiver criando o projeto. | 4 | 3 | 1 |
-| 8 | Média | Eu, como usuário, quero poder fazer download de arquivos relacionados ao projeto específico. | 5 | 3 | 1 |
-| 9 | Média | Eu, como usuário, quero poder exportar os arquivos para PDF e Excel. | 6 | 3 | 3 |
-| 10 | Baixa | Eu, como usuário, quero um site responsivo podendo acessá-lo por celular, tablet e computador. | 5 | 4 | 5 |
-| 11 | Baixa | Eu, como usuário, quero poder ver todos os projetos do antigo portal neste novo portal (scraping dos projetos antigos). | 5 | 4 | 3 |
+| Rank | Prioridade | User Story | Estimativa | Sprint | Requisito Parceiro | 
+| --- | --- | --- | --- | --- | --- | 
+| 1 | Alta | Eu, como administrador, quero poder cadastrar um projeto novo. | 5 | 1 | 1 | 
+| 2 | Alta | Eu, como administrador, quero poder fazer login no site. | 4 | 1 | 1 | 
+| 3 | Alta | Eu, como administrador, quero poder editar projetos já existentes. | 4 | 2 | 1 | 
+| 4 | Média | Eu, como administrador, quero poder excluir projetos. | 3 | 2 | 1 | 
+| 5 | Média | Eu, como usuário do sistema, quero uma funcionalidade de pesquisa com filtros para encontrar rapidamente projetos específicos com base em critérios como referência, título do projeto, contratante, datas de início e término, coordenador e valor. | 4 | 2 | 2 | 
+| 6 | Média | Eu, como administrador, quero poder fazer upload de arquivos enquanto estiver criando o projeto. | 4 | 2 | 1 | 
+| 7 | Média | Eu, como usuário, quero poder fazer download de arquivos relacionados ao projeto específico. | 5 | 2 | 1 | 
+| 8 | Média | Eu, como usuário, quero poder exportar os arquivos para PDF e excel. | 6 | 3 | 3 | 
+| 9 | Média | Eu, como usuário, quero poder acessar a página de dashboard de projetos com a funcionalidade de filtros para a visualização de detalhes. | 8 | 3 | 4 | 
+| 10 | Baixa | Eu, como usuário, quero um site responsivo podendo acessá-lo por celular, tablet e computador. | 5 | 3 | 5 |
+| 11 | Baixa | Eu, como usuário, quero poder ver todos os projetos do antigo portal neste novo portal (scraping dos projetos antigos). | 5 | 4 | 3 | 
 
 
 <br>
