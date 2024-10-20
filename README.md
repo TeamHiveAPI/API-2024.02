@@ -52,7 +52,17 @@ O nosso sistema é uma aplicação web desenvolvida para aprimorar a transparên
 <br>
 
 <strong>Sprint 2:</strong> <br>
-<pre><code>Em andamento!</code></pre>
+
+<br>
+
+<video src="https://github.com/user-attachments/assets/0bc8717a-bb9c-45f8-8eb1-61663d9e8785"></video>
+
+<br>
+
+💡 Funcionalidades Específicas: [Visualizar](documentos_internos/mvps/mvp_sprint2.md)
+
+<br>
+
 <br>
 
 <strong>Sprint 3</strong> <br>
