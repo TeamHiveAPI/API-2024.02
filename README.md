@@ -152,7 +152,7 @@ spring.datasource.password=sua_senha_aqui
 
 <br>
 
-💡 Mais Informações: [Visualizar](documentos_internos\sprintbacklog\sb_sprint1.md)
+💡 Mais Informações: [Visualizar](documentos_internos/sprintbacklog/sb_sprint1.md)
 
 
 <br>
@@ -161,7 +161,7 @@ spring.datasource.password=sua_senha_aqui
 
 <br>
 
-💡 Mais Informações: [Visualizar](documentos_internos\sprintbacklog\sb_sprint2.md)
+💡 Mais Informações: [Visualizar](documentos_internos/sprintbacklog/sb_sprint2.md)
 
 <br>
 
